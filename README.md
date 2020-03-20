@@ -1,0 +1,2 @@
+# MSGeneralMethodsHelper
+维修模拟训练器动态链接库帮助程序
